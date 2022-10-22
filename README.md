@@ -6,15 +6,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=napieralal)](https://github.com/ryo-ma/github-profile-trophy)
 
-![napieralal's GitHub stats](https://github-readme-stats.vercel.app/api?username=napieralal&count_private=true)
-![napieralal's GitHub stats](https://github-readme-stats.vercel.app/api?username=napieralal&show_icons=true)
-[![napieralal's GitHub stats](https://github-readme-stats.vercel.app/api?username=napieralal)](https://github.com/anuraghazra/github-readme-stats)
-![napieralal's GitHub stats](https://github-readme-stats.vercel.app/api?username=napieralal&show_icons=true&theme=radical)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=napieralal&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=napieralal)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=napieralal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [![lukasz StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14122375)](https://stackoverflow.com/users/20311112/lukasz)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=v27oy2vswvnjmjr8mo7z53zxr&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
 
 <!---
 napieralal/napieralal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
