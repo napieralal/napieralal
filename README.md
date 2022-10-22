@@ -6,6 +6,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=napieralal)](https://github.com/ryo-ma/github-profile-trophy)
 
+![napieralal's GitHub stats](https://github-readme-stats.vercel.app/api?username=napieralal&count_private=true)
+
 [![lukasz StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14122375)](https://stackoverflow.com/users/20311112/lukasz)
 
 <!---
