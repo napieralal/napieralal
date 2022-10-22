@@ -8,7 +8,7 @@
 
 [![lukasz StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14122375)](https://stackoverflow.com/users/20311112/lukasz)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=v27oy2vswvnjmjr8mo7z53zxr&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=v27oy2vswvnjmjr8mo7z53zxr&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=v27oy2vswvnjmjr8mo7z53zxr&redirect=true)
 
 <!---
 napieralal/napieralal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
