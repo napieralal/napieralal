@@ -9,7 +9,9 @@
 ![Java](https://img.shields.io/badge/Java-%23F8981D.svg?style=for-the-badge&logo=java&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-%23202020.svg?style=for-the-badge&logo=unity&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-%23A8B9CC.svg?style=for-the-badge&logo=opengl&logoColor=black)
 
 [![lukasz StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14122375)](https://stackoverflow.com/users/20311112/lukasz)
 
